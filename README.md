@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Amitesh Nagar
 
-<!--
-**amiteshnagar/amiteshnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE | Indore Institute of Science & Technology, Indore  
+🌱 Learning **C++ | DSA | JavaScript | React | SQL**  
+🚀 Interested in **Software Development & Problem Solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 🏧 Featured Project
+
+## Abhi ATM Manager
+**Smart Management for Multiple Private ATMs**
+
+An offline-first Android application for managing ATM transactions, employees, reports, and analytics.
+
+**Tech Stack:** Flutter • Dart • Riverpod • SQLite • Clean Architecture
+
+---
+## 🛠️ Skills
+
+**Languages:** C, C++, Java, Python  
+**Web:** HTML, CSS, JavaScript, React  
+**Database:** SQL, SQLite  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+## 📫 Connect With Me
+
+📧 **AMITESHNAGAR2025@GMAIL.COM**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/amitesh-nagar-12450330b/)
+
+---
+
+⭐ *Build • Learn • Improve*
